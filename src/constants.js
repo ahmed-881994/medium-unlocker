@@ -107,7 +107,8 @@ exports.domainList = [
   'https://experiencestack.co/*',
   'https://golang.thisweekin.io/*',
   'https://insightsndata.com/*',
-  'https://artificialcorner.com/*'
+  'https://artificialcorner.com/*',
+  'https://javascript.plainenglish.io/*'
 ];
 
 
